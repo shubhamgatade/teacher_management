@@ -10,6 +10,8 @@ class TeacherManagementApplicationTests {
 	void contextLoads() {
 		
 		//checking git pull
+
+		//checking git push
 	}
 
 }
