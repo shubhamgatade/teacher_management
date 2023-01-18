@@ -8,6 +8,8 @@ class TeacherManagementApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		//checking git pull
 	}
 
 }
